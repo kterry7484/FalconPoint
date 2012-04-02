@@ -1,0 +1,951 @@
+<?xml version='1.0' standalone='yes'?>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:07:01Z" stale="2012-01-29T00:47:01Z" type="a-f-G" start="2012-01-29T00:07:01Z">
+<detail></detail>
+<point hae="0" lat="34.716181" lon="-86.673698" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:07:05Z" stale="2012-01-29T00:47:05Z" type="a-f-G" start="2012-01-29T00:07:05Z">
+<detail></detail>
+<point hae="0" lat="34.717704" lon="-86.676241" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:07:05Z" stale="2012-01-29T00:47:05Z" type="a-f-G" start="2012-01-29T00:07:05Z">
+<detail></detail>
+<point hae="0" lat="34.717305" lon="-86.676109" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:07:06Z" stale="2012-01-29T00:47:06Z" type="a-f-G" start="2012-01-29T00:07:06Z">
+<detail></detail>
+<point hae="0" lat="34.717305" lon="-86.676109" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:07:46Z" stale="2012-01-29T00:47:46Z" type="a-f-G" start="2012-01-29T00:07:46Z">
+<detail></detail>
+<point hae="0" lat="34.715063" lon="-86.675505" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:08:36Z" stale="2012-01-29T00:48:36Z" type="a-f-G" start="2012-01-29T00:08:36Z">
+<detail></detail>
+<point hae="0" lat="34.713140" lon="-86.673891" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:08:50Z" stale="2012-01-29T00:48:50Z" type="a-f-G" start="2012-01-29T00:08:50Z">
+<detail></detail>
+<point hae="0" lat="34.713205" lon="-86.671133" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:09:05Z" stale="2012-01-29T00:49:05Z" type="a-f-G" start="2012-01-29T00:09:05Z">
+<detail></detail>
+<point hae="0" lat="34.713195" lon="-86.668356" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:09:19Z" stale="2012-01-29T00:49:19Z" type="a-f-G" start="2012-01-29T00:09:19Z">
+<detail></detail>
+<point hae="0" lat="34.713199" lon="-86.665594" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:09:33Z" stale="2012-01-29T00:49:33Z" type="a-f-G" start="2012-01-29T00:09:33Z">
+<detail></detail>
+<point hae="0" lat="34.713172" lon="-86.662819" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:09:48Z" stale="2012-01-29T00:49:48Z" type="a-f-G" start="2012-01-29T00:09:48Z">
+<detail></detail>
+<point hae="0" lat="34.713148" lon="-86.659981" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:10:16Z" stale="2012-01-29T00:50:16Z" type="a-f-G" start="2012-01-29T00:10:16Z">
+<detail></detail>
+<point hae="0" lat="34.713139" lon="-86.657166" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:10:40Z" stale="2012-01-29T00:50:40Z" type="a-f-G" start="2012-01-29T00:10:40Z">
+<detail></detail>
+<point hae="0" lat="34.714877" lon="-86.655328" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:10:55Z" stale="2012-01-29T00:50:55Z" type="a-f-G" start="2012-01-29T00:10:55Z">
+<detail></detail>
+<point hae="0" lat="34.716560" lon="-86.653324" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:11:11Z" stale="2012-01-29T00:51:11Z" type="a-f-G" start="2012-01-29T00:11:11Z">
+<detail></detail>
+<point hae="0" lat="34.718879" lon="-86.653298" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:11:27Z" stale="2012-01-29T00:51:27Z" type="a-f-G" start="2012-01-29T00:11:27Z">
+<detail></detail>
+<point hae="0" lat="34.720944" lon="-86.654677" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:11:42Z" stale="2012-01-29T00:51:42Z" type="a-f-G" start="2012-01-29T00:11:42Z">
+<detail></detail>
+<point hae="0" lat="34.723038" lon="-86.655793" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:11:56Z" stale="2012-01-29T00:51:56Z" type="a-f-G" start="2012-01-29T00:11:56Z">
+<detail></detail>
+<point hae="0" lat="34.725416" lon="-86.656188" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:12:10Z" stale="2012-01-29T00:52:10Z" type="a-f-G" start="2012-01-29T00:12:10Z">
+<detail></detail>
+<point hae="0" lat="34.727684" lon="-86.656220" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:12:23Z" stale="2012-01-29T00:52:23Z" type="a-f-G" start="2012-01-29T00:12:23Z">
+<detail></detail>
+<point hae="0" lat="34.729926" lon="-86.655794" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:12:36Z" stale="2012-01-29T00:52:36Z" type="a-f-G" start="2012-01-29T00:12:36Z">
+<detail></detail>
+<point hae="0" lat="34.732184" lon="-86.654847" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:13:13Z" stale="2012-01-29T00:53:13Z" type="a-f-G" start="2012-01-29T00:13:13Z">
+<detail></detail>
+<point hae="0" lat="34.734387" lon="-86.653943" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:13:31Z" stale="2012-01-29T00:53:31Z" type="a-f-G" start="2012-01-29T00:13:31Z">
+<detail></detail>
+<point hae="0" lat="34.736511" lon="-86.653006" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:14:56Z" stale="2012-01-29T00:54:56Z" type="a-f-G" start="2012-01-29T00:14:56Z">
+<detail></detail>
+<point hae="0" lat="34.736321" lon="-86.650131" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:15:12Z" stale="2012-01-29T00:55:12Z" type="a-f-G" start="2012-01-29T00:15:12Z">
+<detail></detail>
+<point hae="0" lat="34.735658" lon="-86.647446" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:15:51Z" stale="2012-01-29T00:55:51Z" type="a-f-G" start="2012-01-29T00:15:51Z">
+<detail></detail>
+<point hae="0" lat="34.735051" lon="-86.644608" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:16:01Z" stale="2012-01-29T00:56:01Z" type="a-f-G" start="2012-01-29T00:16:01Z">
+<detail></detail>
+<point hae="0" lat="34.734684" lon="-86.641776" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:16:13Z" stale="2012-01-29T00:56:13Z" type="a-f-G" start="2012-01-29T00:16:13Z">
+<detail></detail>
+<point hae="0" lat="34.735064" lon="-86.638950" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:16:24Z" stale="2012-01-29T00:56:24Z" type="a-f-G" start="2012-01-29T00:16:24Z">
+<detail></detail>
+<point hae="0" lat="34.735076" lon="-86.636135" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:16:37Z" stale="2012-01-29T00:56:37Z" type="a-f-G" start="2012-01-29T00:16:37Z">
+<detail></detail>
+<point hae="0" lat="34.735005" lon="-86.633388" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:16:49Z" stale="2012-01-29T00:56:49Z" type="a-f-G" start="2012-01-29T00:16:49Z">
+<detail></detail>
+<point hae="0" lat="34.734992" lon="-86.630580" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:17:04Z" stale="2012-01-29T00:57:04Z" type="a-f-G" start="2012-01-29T00:17:04Z">
+<detail></detail>
+<point hae="0" lat="34.734855" lon="-86.627797" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:30:42Z" stale="2012-01-29T00:70:42Z" type="a-f-G" start="2012-01-29T00:30:42Z">
+<detail></detail>
+<point hae="0" lat="34.732498" lon="-86.627445" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:30:56Z" stale="2012-01-29T00:70:56Z" type="a-f-G" start="2012-01-29T00:30:56Z">
+<detail></detail>
+<point hae="0" lat="34.730224" lon="-86.627513" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:31:11Z" stale="2012-01-29T00:71:11Z" type="a-f-G" start="2012-01-29T00:31:11Z">
+<detail></detail>
+<point hae="0" lat="34.727964" lon="-86.627594" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:31:33Z" stale="2012-01-29T00:71:33Z" type="a-f-G" start="2012-01-29T00:31:33Z">
+<detail></detail>
+<point hae="0" lat="34.727567" lon="-86.630431" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:31:48Z" stale="2012-01-29T00:71:48Z" type="a-f-G" start="2012-01-29T00:31:48Z">
+<detail></detail>
+<point hae="0" lat="34.727562" lon="-86.633274" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:32:03Z" stale="2012-01-29T00:72:03Z" type="a-f-G" start="2012-01-29T00:32:03Z">
+<detail></detail>
+<point hae="0" lat="34.727597" lon="-86.636151" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:32:19Z" stale="2012-01-29T00:72:19Z" type="a-f-G" start="2012-01-29T00:32:19Z">
+<detail></detail>
+<point hae="0" lat="34.727794" lon="-86.638948" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:32:34Z" stale="2012-01-29T00:72:34Z" type="a-f-G" start="2012-01-29T00:32:34Z">
+<detail></detail>
+<point hae="0" lat="34.727162" lon="-86.641602" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:33:14Z" stale="2012-01-29T00:73:14Z" type="a-f-G" start="2012-01-29T00:33:14Z">
+<detail></detail>
+<point hae="0" lat="34.726093" lon="-86.644010" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:33:30Z" stale="2012-01-29T00:73:30Z" type="a-f-G" start="2012-01-29T00:33:30Z">
+<detail></detail>
+<point hae="0" lat="34.726180" lon="-86.646919" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:33:44Z" stale="2012-01-29T00:73:44Z" type="a-f-G" start="2012-01-29T00:33:44Z">
+<detail></detail>
+<point hae="0" lat="34.726174" lon="-86.649719" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:33:59Z" stale="2012-01-29T00:73:59Z" type="a-f-G" start="2012-01-29T00:33:59Z">
+<detail></detail>
+<point hae="0" lat="34.726197" lon="-86.652520" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:34:13Z" stale="2012-01-29T00:74:13Z" type="a-f-G" start="2012-01-29T00:34:13Z">
+<detail></detail>
+<point hae="0" lat="34.726192" lon="-86.655270" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:34:44Z" stale="2012-01-29T00:74:44Z" type="a-f-G" start="2012-01-29T00:34:44Z">
+<detail></detail>
+<point hae="0" lat="34.726267" lon="-86.658129" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:34:59Z" stale="2012-01-29T00:74:59Z" type="a-f-G" start="2012-01-29T00:34:59Z">
+<detail></detail>
+<point hae="0" lat="34.726261" lon="-86.661047" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:35:14Z" stale="2012-01-29T00:75:14Z" type="a-f-G" start="2012-01-29T00:35:14Z">
+<detail></detail>
+<point hae="0" lat="34.727148" lon="-86.663677" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:35:28Z" stale="2012-01-29T00:75:28Z" type="a-f-G" start="2012-01-29T00:35:28Z">
+<detail></detail>
+<point hae="0" lat="34.728123" lon="-86.666174" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:35:40Z" stale="2012-01-29T00:75:40Z" type="a-f-G" start="2012-01-29T00:35:40Z">
+<detail></detail>
+<point hae="0" lat="34.728142" lon="-86.669038" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:35:52Z" stale="2012-01-29T00:75:52Z" type="a-f-G" start="2012-01-29T00:35:52Z">
+<detail></detail>
+<point hae="0" lat="34.728185" lon="-86.671932" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:36:03Z" stale="2012-01-29T00:76:03Z" type="a-f-G" start="2012-01-29T00:36:03Z">
+<detail></detail>
+<point hae="0" lat="34.728256" lon="-86.674771" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:36:39Z" stale="2012-01-29T00:76:39Z" type="a-f-G" start="2012-01-29T00:36:39Z">
+<detail></detail>
+<point hae="0" lat="34.727452" lon="-86.677368" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:36:57Z" stale="2012-01-29T00:76:57Z" type="a-f-G" start="2012-01-29T00:36:57Z">
+<detail></detail>
+<point hae="0" lat="34.725152" lon="-86.676638" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:37:10Z" stale="2012-01-29T00:77:10Z" type="a-f-G" start="2012-01-29T00:37:10Z">
+<detail></detail>
+<point hae="0" lat="34.722769" lon="-86.676989" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:37:24Z" stale="2012-01-29T00:77:24Z" type="a-f-G" start="2012-01-29T00:37:24Z">
+<detail></detail>
+<point hae="0" lat="34.720898" lon="-86.678791" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:37:37Z" stale="2012-01-29T00:77:37Z" type="a-f-G" start="2012-01-29T00:37:37Z">
+<detail></detail>
+<point hae="0" lat="34.721071" lon="-86.681557" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:37:50Z" stale="2012-01-29T00:77:50Z" type="a-f-G" start="2012-01-29T00:37:50Z">
+<detail></detail>
+<point hae="0" lat="34.721343" lon="-86.684333" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:38:03Z" stale="2012-01-29T00:78:03Z" type="a-f-G" start="2012-01-29T00:38:03Z">
+<detail></detail>
+<point hae="0" lat="34.721115" lon="-86.687196" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:38:16Z" stale="2012-01-29T00:78:16Z" type="a-f-G" start="2012-01-29T00:38:16Z">
+<detail></detail>
+<point hae="0" lat="34.720368" lon="-86.689950" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:38:32Z" stale="2012-01-29T00:78:32Z" type="a-f-G" start="2012-01-29T00:38:32Z">
+<detail></detail>
+<point hae="0" lat="34.720588" lon="-86.692803" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:39:14Z" stale="2012-01-29T00:79:14Z" type="a-f-G" start="2012-01-29T00:39:14Z">
+<detail></detail>
+<point hae="0" lat="34.720105" lon="-86.690025" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:39:28Z" stale="2012-01-29T00:79:28Z" type="a-f-G" start="2012-01-29T00:39:28Z">
+<detail></detail>
+<point hae="0" lat="34.720781" lon="-86.687290" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:39:42Z" stale="2012-01-29T00:79:42Z" type="a-f-G" start="2012-01-29T00:39:42Z">
+<detail></detail>
+<point hae="0" lat="34.721142" lon="-86.684493" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:39:56Z" stale="2012-01-29T00:79:56Z" type="a-f-G" start="2012-01-29T00:39:56Z">
+<detail></detail>
+<point hae="0" lat="34.720888" lon="-86.681661" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:40:21Z" stale="2012-01-29T00:80:21Z" type="a-f-G" start="2012-01-29T00:40:21Z">
+<detail></detail>
+<point hae="0" lat="34.719060" lon="-86.680005" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:40:36Z" stale="2012-01-29T00:80:36Z" type="a-f-G" start="2012-01-29T00:40:36Z">
+<detail></detail>
+<point hae="0" lat="34.716709" lon="-86.680093" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:40:50Z" stale="2012-01-29T00:80:50Z" type="a-f-G" start="2012-01-29T00:40:50Z">
+<detail></detail>
+<point hae="0" lat="34.714447" lon="-86.680204" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:41:16Z" stale="2012-01-29T00:81:16Z" type="a-f-G" start="2012-01-29T00:41:16Z">
+<detail></detail>
+<point hae="0" lat="34.713479" lon="-86.682763" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:41:28Z" stale="2012-01-29T00:81:28Z" type="a-f-G" start="2012-01-29T00:41:28Z">
+<detail></detail>
+<point hae="0" lat="34.713496" lon="-86.685663" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:41:40Z" stale="2012-01-29T00:81:40Z" type="a-f-G" start="2012-01-29T00:41:40Z">
+<detail></detail>
+<point hae="0" lat="34.713538" lon="-86.688520" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:41:53Z" stale="2012-01-29T00:81:53Z" type="a-f-G" start="2012-01-29T00:41:53Z">
+<detail></detail>
+<point hae="0" lat="34.713532" lon="-86.691459" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:42:07Z" stale="2012-01-29T00:82:07Z" type="a-f-G" start="2012-01-29T00:42:07Z">
+<detail></detail>
+<point hae="0" lat="34.713196" lon="-86.694276" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:42:20Z" stale="2012-01-29T00:82:20Z" type="a-f-G" start="2012-01-29T00:42:20Z">
+<detail></detail>
+<point hae="0" lat="34.711382" lon="-86.696211" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:42:33Z" stale="2012-01-29T00:82:33Z" type="a-f-G" start="2012-01-29T00:42:33Z">
+<detail></detail>
+<point hae="0" lat="34.709824" lon="-86.698317" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:42:46Z" stale="2012-01-29T00:82:46Z" type="a-f-G" start="2012-01-29T00:42:46Z">
+<detail></detail>
+<point hae="0" lat="34.708972" lon="-86.701005" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:42:59Z" stale="2012-01-29T00:82:59Z" type="a-f-G" start="2012-01-29T00:42:59Z">
+<detail></detail>
+<point hae="0" lat="34.708383" lon="-86.703678" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:43:17Z" stale="2012-01-29T00:83:17Z" type="a-f-G" start="2012-01-29T00:43:17Z">
+<detail></detail>
+<point hae="0" lat="34.708382" lon="-86.706422" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:43:36Z" stale="2012-01-29T00:83:36Z" type="a-f-G" start="2012-01-29T00:43:36Z">
+<detail></detail>
+<point hae="0" lat="34.706115" lon="-86.707332" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:43:51Z" stale="2012-01-29T00:83:51Z" type="a-f-G" start="2012-01-29T00:43:51Z">
+<detail></detail>
+<point hae="0" lat="34.703723" lon="-86.707454" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:44:04Z" stale="2012-01-29T00:84:04Z" type="a-f-G" start="2012-01-29T00:44:04Z">
+<detail></detail>
+<point hae="0" lat="34.701474" lon="-86.706885" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:44:19Z" stale="2012-01-29T00:84:19Z" type="a-f-G" start="2012-01-29T00:44:19Z">
+<detail></detail>
+<point hae="0" lat="34.699156" lon="-86.706967" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:44:38Z" stale="2012-01-29T00:84:38Z" type="a-f-G" start="2012-01-29T00:44:38Z">
+<detail></detail>
+<point hae="0" lat="34.696756" lon="-86.707047" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:45:44Z" stale="2012-01-29T00:85:44Z" type="a-f-G" start="2012-01-29T00:45:44Z">
+<detail></detail>
+<point hae="0" lat="34.694487" lon="-86.707502" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:45:58Z" stale="2012-01-29T00:85:58Z" type="a-f-G" start="2012-01-29T00:45:58Z">
+<detail></detail>
+<point hae="0" lat="34.693522" lon="-86.710059" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:46:10Z" stale="2012-01-29T00:86:10Z" type="a-f-G" start="2012-01-29T00:46:10Z">
+<detail></detail>
+<point hae="0" lat="34.692514" lon="-86.712582" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:46:23Z" stale="2012-01-29T00:86:23Z" type="a-f-G" start="2012-01-29T00:46:23Z">
+<detail></detail>
+<point hae="0" lat="34.691433" lon="-86.715215" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:46:34Z" stale="2012-01-29T00:86:34Z" type="a-f-G" start="2012-01-29T00:46:34Z">
+<detail></detail>
+<point hae="0" lat="34.690428" lon="-86.717660" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:46:45Z" stale="2012-01-29T00:86:45Z" type="a-f-G" start="2012-01-29T00:46:45Z">
+<detail></detail>
+<point hae="0" lat="34.689413" lon="-86.720192" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:46:55Z" stale="2012-01-29T00:86:55Z" type="a-f-G" start="2012-01-29T00:46:55Z">
+<detail></detail>
+<point hae="0" lat="34.688408" lon="-86.722693" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:47:05Z" stale="2012-01-29T00:87:05Z" type="a-f-G" start="2012-01-29T00:47:05Z">
+<detail></detail>
+<point hae="0" lat="34.687418" lon="-86.725167" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:47:15Z" stale="2012-01-29T00:87:15Z" type="a-f-G" start="2012-01-29T00:47:15Z">
+<detail></detail>
+<point hae="0" lat="34.686411" lon="-86.727744" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:47:26Z" stale="2012-01-29T00:87:26Z" type="a-f-G" start="2012-01-29T00:47:26Z">
+<detail></detail>
+<point hae="0" lat="34.685322" lon="-86.730420" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:47:37Z" stale="2012-01-29T00:87:37Z" type="a-f-G" start="2012-01-29T00:47:37Z">
+<detail></detail>
+<point hae="0" lat="34.684250" lon="-86.732972" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:48:21Z" stale="2012-01-29T00:88:21Z" type="a-f-G" start="2012-01-29T00:48:21Z">
+<detail></detail>
+<point hae="0" lat="34.683200" lon="-86.735541" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:48:33Z" stale="2012-01-29T00:88:33Z" type="a-f-G" start="2012-01-29T00:48:33Z">
+<detail></detail>
+<point hae="0" lat="34.682234" lon="-86.738037" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:48:45Z" stale="2012-01-29T00:88:45Z" type="a-f-G" start="2012-01-29T00:48:45Z">
+<detail></detail>
+<point hae="0" lat="34.681206" lon="-86.740611" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:48:57Z" stale="2012-01-29T00:88:57Z" type="a-f-G" start="2012-01-29T00:48:57Z">
+<detail></detail>
+<point hae="0" lat="34.680139" lon="-86.743210" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:49:09Z" stale="2012-01-29T00:89:09Z" type="a-f-G" start="2012-01-29T00:49:09Z">
+<detail></detail>
+<point hae="0" lat="34.679051" lon="-86.745808" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:49:25Z" stale="2012-01-29T00:89:25Z" type="a-f-G" start="2012-01-29T00:49:25Z">
+<detail></detail>
+<point hae="0" lat="34.678086" lon="-86.748310" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:49:44Z" stale="2012-01-29T00:89:44Z" type="a-f-G" start="2012-01-29T00:49:44Z">
+<detail></detail>
+<point hae="0" lat="34.677087" lon="-86.750843" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:50:23Z" stale="2012-01-29T00:90:23Z" type="a-f-G" start="2012-01-29T00:50:23Z">
+<detail></detail>
+<point hae="0" lat="34.675144" lon="-86.752243" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:50:43Z" stale="2012-01-29T00:90:43Z" type="a-f-G" start="2012-01-29T00:50:43Z">
+<detail></detail>
+<point hae="0" lat="34.673874" lon="-86.754684" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:50:55Z" stale="2012-01-29T00:90:55Z" type="a-f-G" start="2012-01-29T00:50:55Z">
+<detail></detail>
+<point hae="0" lat="34.672022" lon="-86.756467" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:51:05Z" stale="2012-01-29T00:91:05Z" type="a-f-G" start="2012-01-29T00:51:05Z">
+<detail></detail>
+<point hae="0" lat="34.670896" lon="-86.759068" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:51:15Z" stale="2012-01-29T00:91:15Z" type="a-f-G" start="2012-01-29T00:51:15Z">
+<detail></detail>
+<point hae="0" lat="34.669800" lon="-86.761667" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:51:23Z" stale="2012-01-29T00:91:23Z" type="a-f-G" start="2012-01-29T00:51:23Z">
+<detail></detail>
+<point hae="0" lat="34.668788" lon="-86.764184" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:51:31Z" stale="2012-01-29T00:91:31Z" type="a-f-G" start="2012-01-29T00:51:31Z">
+<detail></detail>
+<point hae="0" lat="34.667716" lon="-86.766799" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:51:39Z" stale="2012-01-29T00:91:39Z" type="a-f-G" start="2012-01-29T00:51:39Z">
+<detail></detail>
+<point hae="0" lat="34.666859" lon="-86.769510" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:51:47Z" stale="2012-01-29T00:91:47Z" type="a-f-G" start="2012-01-29T00:51:47Z">
+<detail></detail>
+<point hae="0" lat="34.666651" lon="-86.772355" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:51:55Z" stale="2012-01-29T00:91:55Z" type="a-f-G" start="2012-01-29T00:51:55Z">
+<detail></detail>
+<point hae="0" lat="34.666318" lon="-86.775326" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:52:03Z" stale="2012-01-29T00:92:03Z" type="a-f-G" start="2012-01-29T00:52:03Z">
+<detail></detail>
+<point hae="0" lat="34.665284" lon="-86.778163" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:52:10Z" stale="2012-01-29T00:92:10Z" type="a-f-G" start="2012-01-29T00:52:10Z">
+<detail></detail>
+<point hae="0" lat="34.664269" lon="-86.780728" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:52:18Z" stale="2012-01-29T00:92:18Z" type="a-f-G" start="2012-01-29T00:52:18Z">
+<detail></detail>
+<point hae="0" lat="34.663176" lon="-86.783478" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:52:26Z" stale="2012-01-29T00:92:26Z" type="a-f-G" start="2012-01-29T00:52:26Z">
+<detail></detail>
+<point hae="0" lat="34.662063" lon="-86.786197" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:52:34Z" stale="2012-01-29T00:92:34Z" type="a-f-G" start="2012-01-29T00:52:34Z">
+<detail></detail>
+<point hae="0" lat="34.660929" lon="-86.788921" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:52:42Z" stale="2012-01-29T00:92:42Z" type="a-f-G" start="2012-01-29T00:52:42Z">
+<detail></detail>
+<point hae="0" lat="34.659712" lon="-86.791440" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:52:50Z" stale="2012-01-29T00:92:50Z" type="a-f-G" start="2012-01-29T00:52:50Z">
+<detail></detail>
+<point hae="0" lat="34.658664" lon="-86.794010" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:52:58Z" stale="2012-01-29T00:92:58Z" type="a-f-G" start="2012-01-29T00:52:58Z">
+<detail></detail>
+<point hae="0" lat="34.657934" lon="-86.796702" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:53:06Z" stale="2012-01-29T00:93:06Z" type="a-f-G" start="2012-01-29T00:53:06Z">
+<detail></detail>
+<point hae="0" lat="34.657404" lon="-86.799674" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:53:14Z" stale="2012-01-29T00:93:14Z" type="a-f-G" start="2012-01-29T00:53:14Z">
+<detail></detail>
+<point hae="0" lat="34.656719" lon="-86.802501" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:53:22Z" stale="2012-01-29T00:93:22Z" type="a-f-G" start="2012-01-29T00:53:22Z">
+<detail></detail>
+<point hae="0" lat="34.655734" lon="-86.805190" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:53:30Z" stale="2012-01-29T00:93:30Z" type="a-f-G" start="2012-01-29T00:53:30Z">
+<detail></detail>
+<point hae="0" lat="34.654715" lon="-86.807862" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:53:38Z" stale="2012-01-29T00:93:38Z" type="a-f-G" start="2012-01-29T00:53:38Z">
+<detail></detail>
+<point hae="0" lat="34.653732" lon="-86.810460" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:53:46Z" stale="2012-01-29T00:93:46Z" type="a-f-G" start="2012-01-29T00:53:46Z">
+<detail></detail>
+<point hae="0" lat="34.652765" lon="-86.813067" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:53:54Z" stale="2012-01-29T00:93:54Z" type="a-f-G" start="2012-01-29T00:53:54Z">
+<detail></detail>
+<point hae="0" lat="34.651751" lon="-86.815688" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:54:02Z" stale="2012-01-29T00:94:02Z" type="a-f-G" start="2012-01-29T00:54:02Z">
+<detail></detail>
+<point hae="0" lat="34.650799" lon="-86.818315" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:54:10Z" stale="2012-01-29T00:94:10Z" type="a-f-G" start="2012-01-29T00:54:10Z">
+<detail></detail>
+<point hae="0" lat="34.649884" lon="-86.820867" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:54:19Z" stale="2012-01-29T00:94:19Z" type="a-f-G" start="2012-01-29T00:54:19Z">
+<detail></detail>
+<point hae="0" lat="34.648886" lon="-86.823483" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:54:28Z" stale="2012-01-29T00:94:28Z" type="a-f-G" start="2012-01-29T00:54:28Z">
+<detail></detail>
+<point hae="0" lat="34.647830" lon="-86.826133" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:54:37Z" stale="2012-01-29T00:94:37Z" type="a-f-G" start="2012-01-29T00:54:37Z">
+<detail></detail>
+<point hae="0" lat="34.646813" lon="-86.828902" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:54:45Z" stale="2012-01-29T00:94:45Z" type="a-f-G" start="2012-01-29T00:54:45Z">
+<detail></detail>
+<point hae="0" lat="34.645873" lon="-86.831486" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:54:53Z" stale="2012-01-29T00:94:53Z" type="a-f-G" start="2012-01-29T00:54:53Z">
+<detail></detail>
+<point hae="0" lat="34.644862" lon="-86.834125" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:55:01Z" stale="2012-01-29T00:95:01Z" type="a-f-G" start="2012-01-29T00:55:01Z">
+<detail></detail>
+<point hae="0" lat="34.643852" lon="-86.836820" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:55:09Z" stale="2012-01-29T00:95:09Z" type="a-f-G" start="2012-01-29T00:55:09Z">
+<detail></detail>
+<point hae="0" lat="34.642844" lon="-86.839402" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:55:18Z" stale="2012-01-29T00:95:18Z" type="a-f-G" start="2012-01-29T00:55:18Z">
+<detail></detail>
+<point hae="0" lat="34.641872" lon="-86.842034" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:55:26Z" stale="2012-01-29T00:95:26Z" type="a-f-G" start="2012-01-29T00:55:26Z">
+<detail></detail>
+<point hae="0" lat="34.640931" lon="-86.844521" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:55:34Z" stale="2012-01-29T00:95:34Z" type="a-f-G" start="2012-01-29T00:55:34Z">
+<detail></detail>
+<point hae="0" lat="34.640001" lon="-86.847072" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:55:42Z" stale="2012-01-29T00:95:42Z" type="a-f-G" start="2012-01-29T00:55:42Z">
+<detail></detail>
+<point hae="0" lat="34.638966" lon="-86.849745" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:55:50Z" stale="2012-01-29T00:95:50Z" type="a-f-G" start="2012-01-29T00:55:50Z">
+<detail></detail>
+<point hae="0" lat="34.637957" lon="-86.852379" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:55:58Z" stale="2012-01-29T00:95:58Z" type="a-f-G" start="2012-01-29T00:55:58Z">
+<detail></detail>
+<point hae="0" lat="34.636942" lon="-86.855029" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:56:06Z" stale="2012-01-29T00:96:06Z" type="a-f-G" start="2012-01-29T00:56:06Z">
+<detail></detail>
+<point hae="0" lat="34.635928" lon="-86.857775" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:56:14Z" stale="2012-01-29T00:96:14Z" type="a-f-G" start="2012-01-29T00:56:14Z">
+<detail></detail>
+<point hae="0" lat="34.634898" lon="-86.860477" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:56:22Z" stale="2012-01-29T00:96:22Z" type="a-f-G" start="2012-01-29T00:56:22Z">
+<detail></detail>
+<point hae="0" lat="34.633867" lon="-86.863200" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:56:30Z" stale="2012-01-29T00:96:30Z" type="a-f-G" start="2012-01-29T00:56:30Z">
+<detail></detail>
+<point hae="0" lat="34.632858" lon="-86.865927" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:56:38Z" stale="2012-01-29T00:96:38Z" type="a-f-G" start="2012-01-29T00:56:38Z">
+<detail></detail>
+<point hae="0" lat="34.631814" lon="-86.868662" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:56:46Z" stale="2012-01-29T00:96:46Z" type="a-f-G" start="2012-01-29T00:56:46Z">
+<detail></detail>
+<point hae="0" lat="34.630988" lon="-86.871520" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:56:54Z" stale="2012-01-29T00:96:54Z" type="a-f-G" start="2012-01-29T00:56:54Z">
+<detail></detail>
+<point hae="0" lat="34.630896" lon="-86.874400" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:57:02Z" stale="2012-01-29T00:97:02Z" type="a-f-G" start="2012-01-29T00:57:02Z">
+<detail></detail>
+<point hae="0" lat="34.631137" lon="-86.877305" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:57:10Z" stale="2012-01-29T00:97:10Z" type="a-f-G" start="2012-01-29T00:57:10Z">
+<detail></detail>
+<point hae="0" lat="34.631338" lon="-86.880121" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:57:18Z" stale="2012-01-29T00:97:18Z" type="a-f-G" start="2012-01-29T00:57:18Z">
+<detail></detail>
+<point hae="0" lat="34.631520" lon="-86.882842" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:57:26Z" stale="2012-01-29T00:97:26Z" type="a-f-G" start="2012-01-29T00:57:26Z">
+<detail></detail>
+<point hae="0" lat="34.631693" lon="-86.885636" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:57:34Z" stale="2012-01-29T00:97:34Z" type="a-f-G" start="2012-01-29T00:57:34Z">
+<detail></detail>
+<point hae="0" lat="34.631432" lon="-86.888373" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:57:42Z" stale="2012-01-29T00:97:42Z" type="a-f-G" start="2012-01-29T00:57:42Z">
+<detail></detail>
+<point hae="0" lat="34.630659" lon="-86.890969" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:57:50Z" stale="2012-01-29T00:97:50Z" type="a-f-G" start="2012-01-29T00:57:50Z">
+<detail></detail>
+<point hae="0" lat="34.629721" lon="-86.893559" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:57:58Z" stale="2012-01-29T00:97:58Z" type="a-f-G" start="2012-01-29T00:57:58Z">
+<detail></detail>
+<point hae="0" lat="34.628799" lon="-86.896091" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:58:07Z" stale="2012-01-29T00:98:07Z" type="a-f-G" start="2012-01-29T00:58:07Z">
+<detail></detail>
+<point hae="0" lat="34.627970" lon="-86.898922" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:58:16Z" stale="2012-01-29T00:98:16Z" type="a-f-G" start="2012-01-29T00:58:16Z">
+<detail></detail>
+<point hae="0" lat="34.627826" lon="-86.901870" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:58:25Z" stale="2012-01-29T00:98:25Z" type="a-f-G" start="2012-01-29T00:58:25Z">
+<detail></detail>
+<point hae="0" lat="34.627908" lon="-86.904924" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:58:33Z" stale="2012-01-29T00:98:33Z" type="a-f-G" start="2012-01-29T00:58:33Z">
+<detail></detail>
+<point hae="0" lat="34.627981" lon="-86.907700" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:58:42Z" stale="2012-01-29T00:98:42Z" type="a-f-G" start="2012-01-29T00:58:42Z">
+<detail></detail>
+<point hae="0" lat="34.628042" lon="-86.910649" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:58:51Z" stale="2012-01-29T00:98:51Z" type="a-f-G" start="2012-01-29T00:58:51Z">
+<detail></detail>
+<point hae="0" lat="34.628081" lon="-86.913434" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:59:00Z" stale="2012-01-29T00:99:00Z" type="a-f-G" start="2012-01-29T00:59:00Z">
+<detail></detail>
+<point hae="0" lat="34.628135" lon="-86.916180" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:59:09Z" stale="2012-01-29T00:99:09Z" type="a-f-G" start="2012-01-29T00:59:09Z">
+<detail></detail>
+<point hae="0" lat="34.628241" lon="-86.919104" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:59:18Z" stale="2012-01-29T00:99:18Z" type="a-f-G" start="2012-01-29T00:59:18Z">
+<detail></detail>
+<point hae="0" lat="34.628321" lon="-86.922023" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:59:27Z" stale="2012-01-29T00:99:27Z" type="a-f-G" start="2012-01-29T00:59:27Z">
+<detail></detail>
+<point hae="0" lat="34.628390" lon="-86.925084" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:59:35Z" stale="2012-01-29T00:99:35Z" type="a-f-G" start="2012-01-29T00:59:35Z">
+<detail></detail>
+<point hae="0" lat="34.628476" lon="-86.927929" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:59:43Z" stale="2012-01-29T00:99:43Z" type="a-f-G" start="2012-01-29T00:59:43Z">
+<detail></detail>
+<point hae="0" lat="34.628542" lon="-86.930722" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T00:59:52Z" stale="2012-01-29T00:99:52Z" type="a-f-G" start="2012-01-29T00:59:52Z">
+<detail></detail>
+<point hae="0" lat="34.628618" lon="-86.933772" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T01:00:01Z" stale="2012-01-29T01:40:01Z" type="a-f-G" start="2012-01-29T01:00:01Z">
+<detail></detail>
+<point hae="0" lat="34.628671" lon="-86.936795" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T01:00:10Z" stale="2012-01-29T01:40:10Z" type="a-f-G" start="2012-01-29T01:00:10Z">
+<detail></detail>
+<point hae="0" lat="34.628736" lon="-86.939661" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T01:00:19Z" stale="2012-01-29T01:40:19Z" type="a-f-G" start="2012-01-29T01:00:19Z">
+<detail></detail>
+<point hae="0" lat="34.628834" lon="-86.942676" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T01:00:28Z" stale="2012-01-29T01:40:28Z" type="a-f-G" start="2012-01-29T01:00:28Z">
+<detail></detail>
+<point hae="0" lat="34.628884" lon="-86.945601" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T01:00:37Z" stale="2012-01-29T01:40:37Z" type="a-f-G" start="2012-01-29T01:00:37Z">
+<detail></detail>
+<point hae="0" lat="34.629044" lon="-86.948412" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T01:00:47Z" stale="2012-01-29T01:40:47Z" type="a-f-G" start="2012-01-29T01:00:47Z">
+<detail></detail>
+<point hae="0" lat="34.629478" lon="-86.951233" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T01:00:59Z" stale="2012-01-29T01:40:59Z" type="a-f-G" start="2012-01-29T01:00:59Z">
+<detail></detail>
+<point hae="0" lat="34.628753" lon="-86.954058" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T01:01:09Z" stale="2012-01-29T01:41:09Z" type="a-f-G" start="2012-01-29T01:01:09Z">
+<detail></detail>
+<point hae="0" lat="34.627604" lon="-86.956553" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T01:01:19Z" stale="2012-01-29T01:41:19Z" type="a-f-G" start="2012-01-29T01:01:19Z">
+<detail></detail>
+<point hae="0" lat="34.626061" lon="-86.958807" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T01:01:29Z" stale="2012-01-29T01:41:29Z" type="a-f-G" start="2012-01-29T01:01:29Z">
+<detail></detail>
+<point hae="0" lat="34.624261" lon="-86.960903" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T01:01:38Z" stale="2012-01-29T01:41:38Z" type="a-f-G" start="2012-01-29T01:01:38Z">
+<detail></detail>
+<point hae="0" lat="34.622589" lon="-86.962776" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T01:01:47Z" stale="2012-01-29T01:41:47Z" type="a-f-G" start="2012-01-29T01:01:47Z">
+<detail></detail>
+<point hae="0" lat="34.620898" lon="-86.964650" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T01:01:56Z" stale="2012-01-29T01:41:56Z" type="a-f-G" start="2012-01-29T01:01:56Z">
+<detail></detail>
+<point hae="0" lat="34.619125" lon="-86.966396" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T01:02:05Z" stale="2012-01-29T01:42:05Z" type="a-f-G" start="2012-01-29T01:02:05Z">
+<detail></detail>
+<point hae="0" lat="34.617353" lon="-86.968234" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T01:02:14Z" stale="2012-01-29T01:42:14Z" type="a-f-G" start="2012-01-29T01:02:14Z">
+<detail></detail>
+<point hae="0" lat="34.615645" lon="-86.970236" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T01:02:24Z" stale="2012-01-29T01:42:24Z" type="a-f-G" start="2012-01-29T01:02:24Z">
+<detail></detail>
+<point hae="0" lat="34.613889" lon="-86.972259" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T01:02:35Z" stale="2012-01-29T01:42:35Z" type="a-f-G" start="2012-01-29T01:02:35Z">
+<detail></detail>
+<point hae="0" lat="34.612138" lon="-86.974218" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T01:02:48Z" stale="2012-01-29T01:42:48Z" type="a-f-G" start="2012-01-29T01:02:48Z">
+<detail></detail>
+<point hae="0" lat="34.610444" lon="-86.976129" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T01:03:21Z" stale="2012-01-29T01:43:21Z" type="a-f-G" start="2012-01-29T01:03:21Z">
+<detail></detail>
+<point hae="0" lat="34.608872" lon="-86.978291" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T01:03:38Z" stale="2012-01-29T01:43:38Z" type="a-f-G" start="2012-01-29T01:03:38Z">
+<detail></detail>
+<point hae="0" lat="34.606998" lon="-86.980040" ce="25" le="10" />
+</event>
+<?xml version='1.0' standalone='yes'?>
+<event version="2.0" uid="****" how="m-r" time="2012-01-29T01:04:12Z" stale="2012-01-29T01:44:12Z" type="a-f-G" start="2012-01-29T01:04:12Z">
+<detail></detail>
+<point hae="0" lat="34.604714" lon="-86.980075" ce="25" le="10" />
+</event>

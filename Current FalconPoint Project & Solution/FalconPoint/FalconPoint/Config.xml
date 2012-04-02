@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Overlay>
+  <OverlayInfo displayName="FalconPoint"
+               iconFile="icons\FvOverlay\FvOverlay.ico"
+               enabled="true"
+               runtimeEnabledClsid="GUID_NULL"
+               defaultRestoreAtStartup="true"
+               overlayDescGuid="f9109e69-faa5-4144-9b74-aaf6fd933d7d"
+               backingStoreType="BACKINGSTORE_TYPE_NONE"
+               
+               customInitClsid="GUID_NULL"
+               
+               defaultDirectory="FvOverlay"
+               defaultFileExtension=".xml"
+               openFileDialogFilter="FvOverlay Files (*.xml)|*.xml||"
+               saveFileDialogFilter="FvOverlay Files (*.xml)|*.xml||"
+               
+               customFileOverlayTypeDescClsid="GUID_NULL"
+               
+               overlayClsid="9fee887b-8a78-4646-97c0-29bf468a50a5"
+               
+               editorDisplayName="FalconPoint Editor"
+               editorClsid="7fcc14ef-c6a8-408e-bc27-aaccddf5ce9a"
+               
+               helpFilename="help\fvw.chm"
+               overlayHelpId="4122"
+               editorHelpId="0">
+  </OverlayInfo>
+
+  <OverlayFactory overlayClsid="GUID_NULL"/>
+  
+  <PropPageInfo propertyPageGuid="97266ea6-a896-4021-9d2b-c640adf2ed76"
+                propertyPageClsid="326e8780-24b0-431e-8fd8-73e2cf525b72"
+                displayName="FalconPoint"
+                iconFilename="FvOverlay\FvOverlay.ico"
+                helpFilename="help\fvw.chm"
+                propertyPageHelpId="132341"
+                parentPropertyPageGuid="GUID_NULL">
+
+    <OverlayAssocs>
+      <OverlayAssoc overlayDescGuid="f9109e69-faa5-4144-9b74-aaf6fd933d7d"/>
+    </OverlayAssocs>
+  </PropPageInfo>
+</Overlay>

@@ -1,0 +1,42 @@
+C:\workspace\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\workspace\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GPXtoCOTs_Converter.Form1.resources
+C:\workspace\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GPXtoCOTs_Converter.Properties.Resources.resources
+C:\workspace\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\workspace\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\workspace\GPXtoCOTs_Converter\GPXtoCOTs_Converter\bin\Debug\GPXtoCOTs_Converter.exe
+C:\workspace\GPXtoCOTs_Converter\GPXtoCOTs_Converter\bin\Debug\GPXtoCOTs_Converter.pdb
+C:\workspace\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GPXtoCOTs_Converter.exe
+C:\workspace\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GPXtoCOTs_Converter.pdb
+C:\Users\Administrator\Dropbox\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GPXtoCOTs_Converter.exe
+C:\Users\Administrator\Dropbox\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GPXtoCOTs_Converter.pdb
+C:\Users\Administrator\Dropbox\GPXtoCOTs_Converter\GPXtoCOTs_Converter\bin\Debug\GPXtoCOTs_Converter.exe
+C:\Users\Administrator\Dropbox\GPXtoCOTs_Converter\GPXtoCOTs_Converter\bin\Debug\GPXtoCOTs_Converter.pdb
+C:\Users\Administrator\Dropbox\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GPXtoCOTs_Converter.Form1.resources
+C:\Users\Administrator\Dropbox\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GPXtoCOTs_Converter.Properties.Resources.resources
+C:\Users\Administrator\Dropbox\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Dropbox\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chip\Dropbox\cs452 shared\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GPXtoCOTs_Converter.exe
+C:\Users\Chip\Dropbox\cs452 shared\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GPXtoCOTs_Converter.pdb
+C:\Users\jterry\Dropbox\cs452 shared\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GPXtoCOTs_Converter.exe
+C:\Users\jterry\Dropbox\cs452 shared\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GPXtoCOTs_Converter.pdb
+C:\Users\Administrator\Dropbox\cs452 shared\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GPXtoCOTs_Converter.exe
+C:\Users\Administrator\Dropbox\cs452 shared\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GPXtoCOTs_Converter.pdb
+C:\Users\Ying\Dropbox\cs452 shared\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GPXtoCOTs_Converter.exe
+C:\Users\Ying\Dropbox\cs452 shared\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GPXtoCOTs_Converter.pdb
+C:\Users\Ying\Dropbox\cs452 shared\GPXtoCOTs_Converter\GPXtoCOTs_Converter\bin\Debug\GPXtoCOTs_Converter.exe
+C:\Users\Ying\Dropbox\cs452 shared\GPXtoCOTs_Converter\GPXtoCOTs_Converter\bin\Debug\GPXtoCOTs_Converter.pdb
+C:\Users\Ying\Dropbox\cs452 shared\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ying\Dropbox\cs452 shared\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GPXtoCOTs_Converter.Form1.resources
+C:\Users\Ying\Dropbox\cs452 shared\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GPXtoCOTs_Converter.Properties.Resources.resources
+C:\Users\Ying\Dropbox\cs452 shared\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ying\Dropbox\cs452 shared\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chip\Dropbox\cs452 shared\zzz_CurrentFalconPoint Solution 3_26_12\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GPXtoCOTs_Converter.exe
+C:\Users\Chip\Dropbox\cs452 shared\zzz_CurrentFalconPoint Solution 3_26_12\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GPXtoCOTs_Converter.pdb
+C:\Users\Chip\Dropbox\cs452 shared\zzz_CurrentFalconPoint Solution 3_26_12\GPXtoCOTs_Converter\GPXtoCOTs_Converter\bin\Debug\GPXtoCOTs_Converter.exe
+C:\Users\Chip\Dropbox\cs452 shared\zzz_CurrentFalconPoint Solution 3_26_12\GPXtoCOTs_Converter\GPXtoCOTs_Converter\bin\Debug\GPXtoCOTs_Converter.pdb
+C:\Users\Chip\Dropbox\cs452 shared\zzz_CurrentFalconPoint Solution 3_26_12\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chip\Dropbox\cs452 shared\zzz_CurrentFalconPoint Solution 3_26_12\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GPXtoCOTs_Converter.Form1.resources
+C:\Users\Chip\Dropbox\cs452 shared\zzz_CurrentFalconPoint Solution 3_26_12\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GPXtoCOTs_Converter.Properties.Resources.resources
+C:\Users\Chip\Dropbox\cs452 shared\zzz_CurrentFalconPoint Solution 3_26_12\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chip\Dropbox\cs452 shared\zzz_CurrentFalconPoint Solution 3_26_12\GPXtoCOTs_Converter\GPXtoCOTs_Converter\obj\x86\Debug\GenerateResource.write.1.tlog

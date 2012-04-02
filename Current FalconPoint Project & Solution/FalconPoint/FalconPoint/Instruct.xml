@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<instructions>
+  <files>
+    <file name ="FvOverlay.ico" dirPath="HD_DATA\icons\FvOverlay"/>
+    <file name ="FvOverlay.ico" dirPath="HD_DATA\FvOverlay"/>
+
+    <file name ="Interop.MAPSCALEUTILSERVERLib.dll" dirPath="HD_DATA\FvOverlay"/>
+    <file name ="Interop.SNAPTOPOINTSLISTSERVERLib.dll" dirPath="HD_DATA\FvOverlay"/>
+    <file name ="Interop.MAPENGINELib.dll" dirPath="HD_DATA\FvOverlay"/>
+    <file name ="Interop.fvw.dll" dirPath="HD_DATA\FvOverlay"/>
+    <file name ="Interop.FvToolbarServerLib.dll" dirPath="HD_DATA\FvOverlay"/>
+    <file name ="Interop.FvDataSourcesLib.dll" dirPath="HD_DATA\FvOverlay"/>
+    <file name ="Interop.FvCommonDialogsLib.dll" dirPath="HD_DATA\FvOverlay"/>
+    <file name ="Interop.FalconViewOverlayLib.dll" dirPath="HD_DATA\FvOverlay"/>
+
+    <file name ="FalconPoint.dll" dirPath="HD_DATA\FvOverlay" RegisterCOMDll="true" DotNetVersion="v4.0.30319"/>
+  </files>
+</instructions>
+
