@@ -1,4 +1,13 @@
-﻿using System;
+﻿// ****************************************************************************
+// $HeadURL $
+// Owner: $Author: $
+// $Revision: $
+// $Id: $
+// $LastChangedDate: $
+// Description:  This class draws icons to the falconpoint map.
+// ****************************************************************************
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

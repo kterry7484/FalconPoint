@@ -1,4 +1,15 @@
-﻿using System;
+﻿// ****************************************************************************
+// $HeadURL $
+// Owner: $Author: $
+// $Revision: $
+// $Id: $
+// $LastChangedDate: $
+// Description:  This class listens for incoming TCP/IP connections and if they are COT
+//                 formated, then it will pullout lat, lon, time, stale?, etc. and send
+//                  that data to the drawer to be drawn.
+// ****************************************************************************
+
+using System;
 using System.Text;
 using System.Net.Sockets;
 using System.Threading;

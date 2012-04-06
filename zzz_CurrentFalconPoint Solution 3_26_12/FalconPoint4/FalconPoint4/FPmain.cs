@@ -1,4 +1,14 @@
-﻿using System;
+﻿// ****************************************************************************
+// $HeadURL $
+// Owner: $Author: $
+// $Revision: $
+// $Id: $
+// $LastChangedDate: $
+// Description:  This class is the main class called by FalconView.  It is starts 
+//                  COTs listener class
+// ****************************************************************************
+
+using System;
 using System.Collections.Generic;
 using System.Text;
 using fvw;
